@@ -1,5 +1,5 @@
-# bao-li-jue-ding
-bao li jue ding 
+
+
 # 暴力决定
 
 暴力决定是一款集合多种实用工具的移动端应用，基于 React、Vite 和 Capacitor 构建，目前支持 Android 平台。它的诞生源于一个简单的想法：把日常需要随机选择和快速决策的工具汇聚在一个应用中，既实用又有趣。
